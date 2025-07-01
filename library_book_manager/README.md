@@ -26,19 +26,3 @@ A modern, visually appealing desktop application to manage your library books. B
    ```
 
 > **Note:** Requires Python 3.x. No external dependencies needed (uses only Tkinter, which is included with Python).
-
-## Usage
-
-- Use the sidebar to navigate between sections.
-- Add a book by entering its Name, Author, and ID, then click **Add**.
-- Search for books by typing in the search bar and clicking **Search**.
-- Delete a book by clicking the 🗑 icon on its card.
-- Click any sidebar icon for detailed instructions in a new window.
-
-## Screenshot
-
-![App Screenshot](screenshot.png)
-
----
-
-**Enjoy managing your library with style!** 
