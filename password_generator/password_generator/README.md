@@ -15,12 +15,6 @@ This is a sleek and modern **Python desktop application** that helps you generat
 
 ---
 
-## 📸 Preview
-
-![Password Generator UI](https://via.placeholder.com/600x320.png?text=StrongPass+Generator+UI+Preview)
-
----
-
 ## 🧰 Technologies Used
 
 - Python 3.x
