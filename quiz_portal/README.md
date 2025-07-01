@@ -1,4 +1,4 @@
-# 🧠 Quiz Portal – JEE-Style Multi-Level Quiz App
+# 🧠 Quiz Portal 
 
 An interactive, level-based **Quiz Application** built with Python's `tkinter` GUI toolkit. Designed for students to test their knowledge across **Chemistry, Physics, and Mathematics** with questions inspired by **JEE (Joint Entrance Examination)**.
 
