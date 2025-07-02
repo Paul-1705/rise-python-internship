@@ -2,7 +2,7 @@ import requests
 import tkinter as tk
 from tkinter import messagebox
 from PIL import Image, ImageTk
-from io import BytesIOw
+from io import BytesIO
 
 API_KEY = "85b53730217373a534dc9947f2e99dd9"  # Replace with your OpenWeatherMap API Key
 
